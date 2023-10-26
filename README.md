@@ -68,3 +68,11 @@ node server.js
 Open up Insomnia core to GET, POST, PUT and DELETE from different routes.
 
 ## demo
+<a href= https://drive.google.com/file/d/1BbHlcVUtfzW1u5zuWpt3YdKzc0LT5REg/view>https://drive.google.com/file/d/1BbHlcVUtfzW1u5zuWpt3YdKzc0LT5REg/view</a>
+![demo](./Assets/category-get_post_put_delete.gif)
+
+<a href=https://drive.google.com/file/d/1XUu-lDTHSTWJQpWm5Z8Mf9g1P5J-plMM/view>https://drive.google.com/file/d/1XUu-lDTHSTWJQpWm5Z8Mf9g1P5J-plMM/view</a>
+![demo](./Assets/product-get_put_post_delete.gif)
+
+<a href=https://drive.google.com/file/d/1g9neWXcYTMk6ljm-5H9PAmfmzOMufDBF/view>https://drive.google.com/file/d/1g9neWXcYTMk6ljm-5H9PAmfmzOMufDBF/view</a>
+![demo](./Assets/tag-get_post_put_delete.gif)
